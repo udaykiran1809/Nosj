@@ -121,3 +121,10 @@ Examples of invalid whitespace:
 		- "<<a :bs>>"
 		- "<< a:bs>>"
 		- "<<a:bs >>"
+
+
+# HOW TO RUN?
+python3 nosj.py <input.txt>
+
+
+
