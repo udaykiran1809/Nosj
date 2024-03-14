@@ -27,9 +27,8 @@ types and using only the languages built-in libraries for example
 		- nosj complex-string == string OR byte[]
 		- nosj map == map[string]{}interface
 
-################################################################################
 # DATA-TYPES
-################################################################################
+
 The nosj format consists of three data-types: maps, nums, and strings. Each is
 described in-depth below.
 
